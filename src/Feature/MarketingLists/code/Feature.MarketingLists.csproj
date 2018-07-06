@@ -128,28 +128,33 @@
       <HintPath>..\..\..\..\packages\Sitecore.Kernel.NoReferences.9.0.180604\lib\NET452\Sitecore.Kernel.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Sitecore.Marketing.Segmentation.xMgmt">
-      <HintPath>..\..\..\..\..\inetpub\wwwroot\sugnl.sc\bin\Sitecore.Marketing.Segmentation.xMgmt.dll</HintPath>
+    <Reference Include="Sitecore.Marketing.Segmentation.xMgmt, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.Marketing.Segmentation.xMgmt.NoReferences.9.0.180604\lib\NET452\Sitecore.Marketing.Segmentation.xMgmt.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Sitecore.XConnect, Version=1.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\packages\Sitecore.XConnect.NoReferences.9.0.180604\lib\NET452\Sitecore.XConnect.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Sitecore.XConnect.Segmentation.Conditions">
-      <HintPath>..\..\..\..\..\inetpub\wwwroot\sugnl.sc\bin\Sitecore.XConnect.Segmentation.Conditions.dll</HintPath>
+    <Reference Include="Sitecore.XConnect.Segmentation.Conditions, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XConnect.Segmentation.Conditions.NoReferences.9.0.180604\lib\NET452\Sitecore.XConnect.Segmentation.Conditions.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="Sitecore.XConnect.Segmentation.Engine">
-      <HintPath>..\..\..\..\..\inetpub\wwwroot\sugnl.sc\bin\Sitecore.XConnect.Segmentation.Engine.dll</HintPath>
+    <Reference Include="Sitecore.XConnect.Segmentation.Engine, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XConnect.Segmentation.Engine.NoReferences.9.0.180604\lib\NET452\Sitecore.XConnect.Segmentation.Engine.dll</HintPath>
+      <Private>True</Private>
     </Reference>
-    <Reference Include="Sitecore.XConnect.Segmentation.ExpressionBuilder.Model">
-      <HintPath>..\..\..\..\..\inetpub\wwwroot\sugnl.sc\bin\Sitecore.XConnect.Segmentation.ExpressionBuilder.Model.dll</HintPath>
+    <Reference Include="Sitecore.XConnect.Segmentation.ExpressionBuilder.Model, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XConnect.Segmentation.ExpressionBuilder.Model.NoReferences.9.0.180604\lib\NET452\Sitecore.XConnect.Segmentation.ExpressionBuilder.Model.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="Sitecore.XConnect.Segmentation.Predicates, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\..\packages\Sitecore.XConnect.Segmentation.Predicates.NoReferences.9.0.180604\lib\NET452\Sitecore.XConnect.Segmentation.Predicates.dll</HintPath>
       <Private>True</Private>
     </Reference>
-    <Reference Include="Sitecore.XConnect.Segmentation.Predicates.Model">
-      <HintPath>..\..\..\..\..\inetpub\wwwroot\sugnl.sc\bin\Sitecore.XConnect.Segmentation.Predicates.Model.dll</HintPath>
+    <Reference Include="Sitecore.XConnect.Segmentation.Predicates.Model, Version=4.0.0.0, Culture=neutral, processorArchitecture=MSIL">
+      <HintPath>..\..\..\..\packages\Sitecore.XConnect.Segmentation.Predicates.Model.NoReferences.9.0.180604\lib\NET452\Sitecore.XConnect.Segmentation.Predicates.Model.dll</HintPath>
+      <Private>True</Private>
     </Reference>
     <Reference Include="System.Web.DynamicData" />
     <Reference Include="System.Web.Entity" />
